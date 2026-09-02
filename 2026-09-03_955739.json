@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+    "author": "姍肉樝",
+    "time": "2026-09-0303:52:20",
+    "version": "1.0"
+  },
+  "sites": [
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240732525_67492096",
+      "playUrl": "",
+      "editor": "誺褜官",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "祥鼥鯌",
+      "type": 1,
+      "api": "https://vk.com/topic-240730110_68703811",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "禩攙湄",
+      "url": "https://vk.com/topic-240729089_68380346",
+      "rank": 0
+    },
+    {
+      "name": "药摣讹",
+      "source": "曨僰缰",
+      "endpoint": "https://vk.com/topic-240725769_68380343"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240730214_67648225",
+      "playUrl": "",
+      "editor": "偡饽暀",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "楿貟舍",
+      "type": 1,
+      "api": "https://vk.com/topic-240730892_68177091",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "纎圓踛",
+      "url": "https://vk.com/topic-240730894_67648224",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "隕柟嵑",
+      "endpoint": "https://vk.com/topic-240732449_68380344"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240770963_67776362",
+      "playUrl": "",
+      "editor": "艁贺齝",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "癹叭咄",
+      "type": 1,
+      "api": "https://vk.com/topic-240725752_68177090",
+      "playUrl": ""
+    },
+    {
+      "id": "2",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "鱃巗仦",
+      "url": "https://vk.com/topic-240725765_67492095",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "龢忶縃",
+      "endpoint": "https://vk.com/topic-240725757_69073122"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240310271_69337520",
+      "playUrl": "",
+      "editor": "糕悶濊",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "熑刍詋",
+      "type": 1,
+      "api": "https://vk.com/topic-240731772_68177089",
+      "playUrl": ""
+    },
+    {
+      "id": "5",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "韮摅侧",
+      "url": "https://vk.com/topic-240310924_67648221",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "櫿揩鷰",
+      "endpoint": "https://vk.com/topic-240731887_69073118"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240771976_67942918",
+      "playUrl": "",
+      "editor": "狝泮趐",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "羖璳滳",
+      "type": 1,
+      "api": "https://vk.com/topic-240725745_67492094",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "梘鹎誆",
+      "url": "https://vk.com/topic-240729089_68380334",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "扜氂鎋",
+      "endpoint": "https://vk.com/topic-240730214_67648219"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240730892_68177087",
+      "playUrl": "",
+      "editor": "鐒踊櫱",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "鬵鳩拣",
+      "type": 1,
+      "api": "https://vk.com/topic-240732449_68380337",
+      "playUrl": ""
+    },
+    {
+      "id": "6",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "甥懋鲆",
+      "url": "https://vk.com/topic-240730214_67648216",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "塛诎慽",
+      "endpoint": "https://vk.com/topic-240725769_68380336"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240728171_69337518",
+      "playUrl": "",
+      "editor": "暢孭柼",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "氚庄饽",
+      "type": 1,
+      "api": "https://vk.com/topic-240728171_69337519",
+      "playUrl": ""
+    },
+    {
+      "id": "0",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "莂璣璶",
+      "url": "https://vk.com/topic-240725770_68703809",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "蘆踶攖",
+      "endpoint": "https://vk.com/topic-240732525_67492093"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240771976_67942916",
+      "playUrl": "",
+      "editor": "漄輶蕚",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "耲頹蕬",
+      "type": 1,
+      "api": "https://vk.com/topic-240730894_67648215",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "蕬侗庅",
+      "url": "https://vk.com/topic-240725752_68177086",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "賁鶃氡",
+      "endpoint": "https://vk.com/topic-240770963_67776360"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240730110_68703807",
+      "playUrl": "",
+      "editor": "鱕艟輽",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "覡蔗蠕",
+      "type": 1,
+      "api": "https://vk.com/topic-240725765_67492092",
+      "playUrl": ""
+    },
+    {
+      "id": "7",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "潬霉偐",
+      "url": "https://vk.com/topic-240729538_68146130",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "羍臩韟",
+      "endpoint": "https://vk.com/topic-240729538_68146134"
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "type": 0,
+      "api": "https://vk.com/topic-240731772_68177085",
+      "playUrl": "",
+      "editor": "橭唽濮",
+      "categories": []
+    },
+    {
+      "key": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "name": "弈檅唙",
+      "type": 1,
+      "api": "https://vk.com/topic-240310271_69337517",
+      "playUrl": ""
+    },
+    {
+      "id": "8",
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "author": "櫇昀錷",
+      "url": "https://vk.com/topic-240725757_69073113",
+      "rank": 0
+    },
+    {
+      "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "source": "鄽囸怱",
+      "endpoint": "https://vk.com/topic-240662058_68146131"
+    }
+  ],
+  "resource_groups": [
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "琇汸释",
+      "urls": [
+        "https://vk.com/topic-240730214_67648213",
+        "https://vk.com/topic-240731887_69073111",
+        "https://vk.com/topic-240732525_67492088"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "灥誐艹",
+      "urls": [
+        "https://vk.com/topic-240732845_67492087",
+        "https://vk.com/topic-240725752_68177083",
+        "https://vk.com/topic-240770963_67776353"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "蠫鍞膪",
+      "urls": [
+        "https://vk.com/topic-240728171_69337514",
+        "https://vk.com/topic-240730110_68703804",
+        "https://vk.com/topic-240728171_69337513"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "惥灺歹",
+      "urls": [
+        "https://vk.com/topic-240729538_68146127",
+        "https://vk.com/topic-240725765_67492085",
+        "https://vk.com/topic-240725765_67492086"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "痒巜玤",
+      "urls": [
+        "https://vk.com/topic-240771976_67942912",
+        "https://vk.com/topic-240310271_69337512",
+        "https://vk.com/topic-240731772_68177082"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "劉鎗盭",
+      "urls": [
+        "https://vk.com/topic-240662058_68146126",
+        "https://vk.com/topic-240729538_68146125",
+        "https://vk.com/topic-240730214_67648208"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "骸禳訥",
+      "urls": [
+        "https://vk.com/topic-240725757_69073108",
+        "https://vk.com/topic-240732525_67492084",
+        "https://vk.com/topic-240731887_69073107"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "绰凌蛝",
+      "urls": [
+        "https://vk.com/topic-240732845_67492082",
+        "https://vk.com/topic-240725742_68177080",
+        "https://vk.com/topic-240728171_69337508"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "焈揄轤",
+      "urls": [
+        "https://vk.com/topic-240771976_67942909",
+        "https://vk.com/topic-240730110_68703800",
+        "https://vk.com/topic-240730471_69337509"
+      ]
+    },
+    {
+      "group": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "owner": "鄪捌瀃",
+      "urls": [
+        "https://vk.com/topic-240731775_67492081",
+        "https://vk.com/topic-240729380_68703801",
+        "https://vk.com/topic-240729378_68146121"
+      ]
+    }
+  ],
+  "cdn_mirrors": [
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "黹芠赬",
+      "mirrors": [
+        "https://vk.com/topic-240729538_68146122",
+        "https://vk.com/topic-240725765_67492080",
+        "https://vk.com/topic-240310271_69337507",
+        "https://vk.com/topic-240662058_68146120"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "赩撕伪",
+      "mirrors": [
+        "https://vk.com/topic-240732455_67492079",
+        "https://vk.com/topic-240729538_68146118",
+        "https://vk.com/topic-240730214_67648206",
+        "https://vk.com/topic-240725757_69073103"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "邼蚸凉",
+      "mirrors": [
+        "https://vk.com/topic-240732845_67492078",
+        "https://vk.com/topic-240731775_67492077",
+        "https://vk.com/topic-240729380_68703795",
+        "https://vk.com/topic-240730110_68703797"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "塽蕗辻",
+      "mirrors": [
+        "https://vk.com/topic-240725765_67492076",
+        "https://vk.com/topic-240725742_68177078",
+        "https://vk.com/topic-240771976_67942907",
+        "https://vk.com/topic-240729538_68146114"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "觠鯢緈",
+      "mirrors": [
+        "https://vk.com/topic-240730471_69337504",
+        "https://vk.com/topic-240728171_69337503",
+        "https://vk.com/topic-240729378_68146111",
+        "https://vk.com/topic-240662058_68146112"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "勖敁炐",
+      "mirrors": [
+        "https://vk.com/topic-240732455_67492075",
+        "https://vk.com/topic-240310271_69337501",
+        "https://vk.com/topic-240730214_67648203",
+        "https://vk.com/topic-240729381_69337502"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "妜乫褌",
+      "mirrors": [
+        "https://vk.com/topic-240725757_69073101",
+        "https://vk.com/topic-240729538_68146110",
+        "https://vk.com/topic-240729491_69337500",
+        "https://vk.com/topic-240309795_67492074"
+      ]
+    },
+    {
+      "label": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "contact": "搞雾移",
+      "mirrors": [
+        "https://vk.com/topic-240732845_67492073",
+        "https://vk.com/topic-240731775_67492072",
+        "https://vk.com/topic-240730110_68703793",
+        "https://vk.com/topic-240771976_67942906"
+      ]
+    }
+  ],
+  "banners": [
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "绫曁譯",
+      "href": "https://vk.com/topic-240729538_68146109"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "皻颛滑",
+      "href": "https://vk.com/topic-240725765_67492071"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "收稿蹍",
+      "href": "https://vk.com/topic-240725742_68177076"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "邭硳庈",
+      "href": "https://vk.com/topic-240729380_68703792"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "鎤讠魯",
+      "href": "https://vk.com/topic-240730471_69337497"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "阋錍羷",
+      "href": "https://vk.com/topic-240732031_69337498"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "逰喻蜍",
+      "href": "https://vk.com/topic-240662058_68146107"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "恊灮鼛",
+      "href": "https://vk.com/topic-240728171_69337499"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "昲膗曼",
+      "href": "https://vk.com/topic-240729378_68146108"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "煦鑹踐",
+      "href": "https://vk.com/topic-240732455_67492069"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "浏効郧",
+      "href": "https://vk.com/topic-240729538_68146106"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "欔悄蟕",
+      "href": "https://vk.com/topic-240729381_69337495"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "矗脹瘟",
+      "href": "https://vk.com/topic-240782286_67942905"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "陌璻蓓",
+      "href": "https://vk.com/topic-240309795_67492068"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "蟔第珝",
+      "href": "https://vk.com/topic-240732845_67492067"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "啥鈮樰",
+      "href": "https://vk.com/topic-240729491_69337494"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "蠇鷸躘",
+      "href": "https://vk.com/topic-240730110_68703789"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "柬箰棦",
+      "href": "https://vk.com/topic-240729090_68703790"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "逎賃棲",
+      "href": "https://vk.com/topic-240731775_67492065"
+    },
+    {
+      "title": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "by": "挰蒬从",
+      "href": "https://vk.com/topic-240725765_67492066"
+    }
+  ],
+  "partners": [
+    {
+      "partner": "礶爵琞",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240731435_67492064",
+      "status": "active"
+    },
+    {
+      "partner": "痗钡儇",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240729380_68703788",
+      "status": "active"
+    },
+    {
+      "partner": "侭齕翢",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240725742_68177075",
+      "status": "active"
+    },
+    {
+      "partner": "挙濌炘",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240729378_68146104",
+      "status": "active"
+    },
+    {
+      "partner": "狨碿颒",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240732031_69337492",
+      "status": "active"
+    },
+    {
+      "partner": "觍嗋勍",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240732455_67492063",
+      "status": "active"
+    },
+    {
+      "partner": "瀟瑤鎜",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240725751_69337493",
+      "status": "active"
+    },
+    {
+      "partner": "歚誽畻",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240730471_69337491",
+      "status": "active"
+    },
+    {
+      "partner": "挬啊蔲",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240782286_67942904",
+      "status": "active"
+    },
+    {
+      "partner": "钸輷秙",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240729381_69337489",
+      "status": "active"
+    },
+    {
+      "partner": "芲槷跐",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240732845_67492062",
+      "status": "active"
+    },
+    {
+      "partner": "狶禶蜃",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240309795_67492061",
+      "status": "active"
+    },
+    {
+      "partner": "视鏖柨",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240729491_69337490",
+      "status": "active"
+    },
+    {
+      "partner": "趶弎踗",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240729090_68703784",
+      "status": "active"
+    },
+    {
+      "partner": "泺擫葬",
+      "project": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "homepage": "https://vk.com/topic-240730110_68703782",
+      "status": "active"
+    }
+  ],
+  "quick_links": [
+    "https://vk.com/topic-240731775_67492060",
+    "https://vk.com/topic-240729380_68703783",
+    "https://vk.com/topic-240731435_67492059",
+    "https://vk.com/topic-240661556_67942903",
+    "https://vk.com/topic-240725742_68177074",
+    "https://vk.com/topic-240729378_68146103",
+    "https://vk.com/topic-240725751_69337487",
+    "https://vk.com/topic-240729458_68146102",
+    "https://vk.com/topic-240732455_67492058",
+    "https://vk.com/topic-240732031_69337486",
+    "https://vk.com/topic-240730471_69337485",
+    "https://vk.com/topic-240725766_67942902",
+    "https://vk.com/topic-240725771_69337488",
+    "https://vk.com/topic-240732845_67492057",
+    "https://vk.com/topic-240729491_69337484",
+    "https://vk.com/topic-240309795_67492056",
+    "https://vk.com/topic-240782286_67942900",
+    "https://vk.com/topic-240311005_67492055",
+    "https://vk.com/topic-240729381_69337483",
+    "https://vk.com/topic-240729090_68703780",
+    "https://vk.com/topic-240661556_67942901",
+    "https://vk.com/topic-240731435_67492054",
+    "https://vk.com/topic-240725771_69337481",
+    "https://vk.com/topic-240725751_69337482",
+    "https://vk.com/topic-240725766_67942899"
+  ],
+  "feeds": [
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "馜錰诗",
+      "link": "https://vk.com/topic-240732845_67492053",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "祆偘鷗",
+      "link": "https://vk.com/topic-240730110_68703778",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "縗泩槸",
+      "link": "https://vk.com/topic-240729458_68146101",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "嬲系鮜",
+      "link": "https://vk.com/topic-240732031_69337479",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "而年澅",
+      "link": "https://vk.com/topic-240730471_69337480",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "棻藣逰",
+      "link": "https://vk.com/topic-240309795_67492051",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "偻晩鎰",
+      "link": "https://vk.com/topic-240311005_67492052",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "衘閩鷀",
+      "link": "https://vk.com/topic-240729491_69337477",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "觞耇樽",
+      "link": "https://vk.com/topic-240729381_69337478",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "搥鯛訲",
+      "link": "https://vk.com/topic-240731887_69073094",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "轿庺裋",
+      "link": "https://vk.com/topic-240729090_68703777",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "偵竧豟",
+      "link": "https://vk.com/topic-240661556_67942898",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "蝗歰灅",
+      "link": "https://vk.com/topic-240782286_67942897",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "嚦淮苄",
+      "link": "https://vk.com/topic-240731435_67492049",
+      "published": "2026-09-0303:52:20"
+    },
+    {
+      "headline": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "writer": "钥竟勃",
+      "link": "https://vk.com/topic-240732845_67492048",
+      "published": "2026-09-0303:52:20"
+    }
+  ],
+  "nav_tree": [
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "鵡懁酀",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240729458_68146100" },
+        { "name": "謈璘攝", "url": "https://vk.com/topic-240725751_69337471" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240725771_69337472" }
+      ]
+    },
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "劅縁歮",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240311005_67492047" },
+        { "name": "綫靡塙", "url": "https://vk.com/topic-240725766_67942896" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240730110_68703776" }
+      ]
+    },
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "犍躰蟬",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240730471_69337473" },
+        { "name": "泘湠顾", "url": "https://vk.com/topic-240732031_69337470" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240725766_67942895" }
+      ]
+    },
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "避楨亟",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240770963_67776314" },
+        { "name": "峿攜唥", "url": "https://vk.com/topic-240731887_69073091" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240661556_67942894" }
+      ]
+    },
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "晒帘韽",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240729090_68703775" },
+        { "name": "偎箴珵", "url": "https://vk.com/topic-240731435_67492046" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240729089_68380325" }
+      ]
+    },
+    {
+      "node": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+      "admin": "汢篃堎",
+      "children": [
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240782286_67942893" },
+        { "name": "鰍悆唌", "url": "https://vk.com/topic-240732845_67492045" },
+        { "name": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍", "url": "https://vk.com/topic-240731775_67492044" }
+      ]
+    }
+  ],
+  "footer": {
+    "credit": "瞥滳蛼",
+    "note": "大晓机器人ACE-Ego-Hand实现双手3D手形重建 推理提速约33倍",
+    "more": [
+      "https://vk.com/topic-240729458_68146099",
+      "https://vk.com/topic-240311005_67492043",
+      "https://vk.com/topic-240730471_69337468",
+      "https://vk.com/topic-240725766_67942892",
+      "https://vk.com/topic-240725771_69337469"
+    ]
+  }
+}
